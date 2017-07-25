@@ -1,0 +1,11 @@
+---
+ID: 23
+post_title: Groups
+author: ng23055
+post_excerpt: ""
+layout: page
+permalink: >
+  http://gonzo.shepherdmaplesyrupfestival.com/groups
+published: true
+post_date: 2017-07-25 02:50:13
+---
